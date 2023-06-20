@@ -1,0 +1,20 @@
+html{
+    background-color: gray;
+}
+
+body{
+   margin-left: 300px;
+   border: 1px solid black;
+   border-radius: 10px; 
+}
+h3{
+    color: gray;
+}
+
+form{
+    margin-left: 300px;
+}
+
+input{
+    color:blue
+}
